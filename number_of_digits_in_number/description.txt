@@ -1,0 +1,4 @@
+Here are 3 ways to find the number of digits in a given number.
+1.Iterative using while loop
+2.Recursive funtion
+3.Logarithimic Method
